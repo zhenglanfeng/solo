@@ -56,6 +56,7 @@ library Math {
     /*
      * Return target * (numerator / denominator), but rounded up.
      */
+     //四舍五入
     function getPartialRoundUp(
         uint256 target,
         uint256 numerator,
